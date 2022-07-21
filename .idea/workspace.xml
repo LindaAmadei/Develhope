@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="701d3118-529c-43bd-9ab9-6e931bf37b1a" name="Changes" comment="ultimo esercizio sql">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sqltable/MyJDBC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sqltable/Students.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqltable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Students.java" afterDir="false" />
-    </list>
+    <list default="true" id="701d3118-529c-43bd-9ab9-6e931bf37b1a" name="Changes" comment="ultimo esercizio sql, develhope" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657272390354</updated>
     </task>
+    <task id="LOCAL-00001" summary="ultimo esercizio sql, develhope">
+      <created>1658413073130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658413073130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,8 +81,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ultimo esercizio sql, develhope" />
     <MESSAGE value="ultimo esercizio sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="ultimo esercizio sql" />
+    <MESSAGE value="ultimo esercizio sql, develhope" />
+    <option name="LAST_COMMIT_MESSAGE" value="ultimo esercizio sql, develhope" />
   </component>
 </project>
